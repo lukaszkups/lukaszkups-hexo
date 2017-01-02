@@ -3,7 +3,7 @@ title: about
 date: 2016-12-27 12:40:35
 ---
 
-## lukaszkups - a Poland-based web developer
+## lukaszkups - a Poland-based web crafter
 
 Welcome to my [Hexo powered](http://hexo.io) website.
 
