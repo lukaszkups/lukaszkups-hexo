@@ -20,3 +20,23 @@ It was a double-goal project for me, because I've learned some basics of writing
 &nbsp;
 
 Due to the current state of the projects, feel free to [ask](http://twitter.com/lukaszkups) or create suitable [issue](http://github.com/lukaszkups).
+
+# Commercial/Freelance Projects
+
+## WTP website development
+
+WTP is the leading company in Greater Poland that specializes in cleaning lacquered steel surfaces.
+
+My task was to create web experience based on photoshop projects. To complete this task I had to create couple plugins (e.g. before/after slider).
+
+This website was created with HTML5, CSS3, JavaScript/jQuery and some simple PHP code.
+
+[see it online](http://wtp.net.pl)
+
+## Law firm Torbé & partners website development
+
+My task was to create the Wordpress-powered website, based on photoshop documents, prepared by graphic designer.
+
+Technologies used in this project: HTML5, CSS3, JavaScript, jQuery and some simple PHP code.
+
+[see it online](http://kancelariaprawopracy.com/)
