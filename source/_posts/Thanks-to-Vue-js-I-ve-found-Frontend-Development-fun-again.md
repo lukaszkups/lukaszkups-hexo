@@ -83,7 +83,7 @@ For the long time I was thinking why exactly Angular 1, 2, React or Ember doesn'
 
 No.
 
-The way how Vue.js solves creating Single Page Applications (or Web Interfaces) with such intuitive syntax is just a pure magic for me. Everything seems be polished to serve best experience for developer working with it. I'll repeat myslef again, but the last time I've felt something like this was when I was learning [Meteor.js](http://meteor.com) - so much stuff has been done under the hood, but this magic is fully understantable - You know why it works like this or why Vue.js core devs has solved this like that.
+The way how Vue.js solves creating Single Page Applications (or Web Interfaces) with such intuitive syntax is just a pure magic for me. Everything seems be polished to serve best experience for developer working with it. I'll repeat myself again, but the last time I've felt something like this was when I was learning [Meteor.js](http://meteor.com) - so much stuff has been done under the hood, but this magic is fully understandable - You know why it works like this or why Vue.js core devs has solved this like that.
 
 Maybe calling it *very suitable naming conventions and architecture* is a very good summary of what I really wanted to explain here ;) 
 
