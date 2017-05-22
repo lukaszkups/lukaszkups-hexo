@@ -5,7 +5,7 @@ date: 2016/12/28
 ---
 
 Rakun.js is a un-opinionated, javascript plugin for wide usage.
-Currently in beta stage, it is used in couple projects, such as [itm.biz.pl](http://itm.biz.pl) internal android mobile application or as a Single Page Application framework for [inku.js](https://github.com/lukaszkups/inku). 
+Currently in beta stage, it is used in couple projects, such as my client internal android mobile application or as a Single Page Application framework for [inku.js](https://github.com/lukaszkups/inku). 
 
 ## The idea behind Rakun.js creation
 
@@ -32,9 +32,9 @@ I had a constant feeling that I'm not up-to-date with my technologic field of ex
 
 Finally I've decided to just *fuck that* and I've created a tool that will help me build stuff like I've used and loved to - without generating tons of HTML code in javascript files using weird HTML-ish syntax (to be honest I remember times when generating whole apps with js was an anti-pattern - for me, even if I'm aware of pros and cons about this it feels just unnatural).
 
-In the following devlogs I'll present the way how Rakun.js works and some basic usage tips.
+In the following Rakun.js devlogs I'll present the way how it works and share some basic usage tips.
 
-And how's about You? Do You follow the hype?
+And how's about You? Do You follow the hype or prefer to work classy?
 
 Best,
 
